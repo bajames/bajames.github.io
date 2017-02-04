@@ -18,14 +18,13 @@ avatar: https://github.com/bajames/bajames.github.io/blob/master/images/profile.
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: bajames@gmail.com
+  facebook: barnaby.james
   flickr:
   github: bajames
-  instagram:
+  instagram: bajames
   linkedin: barnabyjames
   pinterest:
-  rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
