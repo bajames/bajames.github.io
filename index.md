@@ -10,17 +10,17 @@ title: Barnaby James
 
 
 ## Skills
-* Managing a team of 30+ engineers
-* Developing Natural language voice agents
+* Managing a team of 30+ engineers / managers and running large projects
+* Developing natural language voice assistant
 * Ranking photos by quality and topicality
-* Statistical pattern recognition, OCR
-* Android application and platform development on phones / tablet / wearables
-* Experience building developer platforms
+* Statistical pattern recognition / OCR
+* Android application and platform development on phones / cars / wearables
 * Experience building scalable indexing and analysis pipelines with MapReduce in Go / C++ / Sawzall
 * Extensive development / production oncall experience for large scale distributed services
-* Extensive experience with engineering hiring and management
+* Extensive experience with engineering hiring and mentoring
 * Languages - C++, Java, Go, JavaScript, Sawzall
 * Due diligence for acquisitions
+* Presentations ([Google I/O](https://www.youtube.com/watch?v=OW1A4XFRuyc), [Ubiquity](https://www.youtube.com/watch?v=mgudsc-Z468)) to public, executives, large audiences
 
 
 ## Experience
@@ -32,7 +32,7 @@ title: Barnaby James
 * Google Assistant - natural language voice assistant
     * TLM Assistant 3P Developer Platform ([Actions on Google](https://developers.google.com/actions/))
     * TLM [Smart Home](https://madeby.google.com/home/features/#?filters=entertainment,answers,manage,plan,fun,home&feature=control-your-home9) / [IFTTT Integration](https://ifttt.com/google_assistant)
-    * TLM for New Device Integrations / Android Auto Voice
+    * TLM for New Device Integrations / Android Auto
     * 3P Integrations ([Messaging](https://www.engadget.com/2015/07/28/android-voice-commands-for-messaging-apps/), OpenTable, Nest, Uber, [Android APIs](https://developers.google.com/voice-actions/system/))
     * Android [Voice Interaction API](https://developers.google.com/voice-actions/interaction/) ([video](https://www.youtube.com/watch?v=OW1A4XFRuyc), [talk at Ubiquity conference](https://www.youtube.com/watch?v=mgudsc-Z468))
     * [In App Voice Search](http://android-developers.blogspot.com/2014/10/the-fastest-route-between-voice-search.html)
