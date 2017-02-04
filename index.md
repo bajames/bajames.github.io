@@ -3,7 +3,6 @@ layout: post
 title: Barnaby James
 ---
 
-# Barnaby James
 [email](mailto:bajames@gmail.com) | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 
 ## Education
