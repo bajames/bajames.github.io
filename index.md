@@ -25,9 +25,11 @@ title: Barnaby James
 
 ## Experience
 
-### Google - Senior Staff Software Engineer / Tech Lead Manager
+### X - Senior Staff Software Engineer (April 2017 – Present)
+* Applied ML projects
 
-#### September 2007 – Present
+### Google - Senior Staff Software Engineer / Tech Lead Manager (September 2007 – April 2017)
+
 * Tech Lead Manager - Managing a team of 30+ engineers / TLMs
 * Google Assistant - natural language voice assistant
     * TLM Assistant 3P Developer Platform ([Actions on Google](https://developers.google.com/actions/))
@@ -45,9 +47,8 @@ title: Barnaby James
     * Hiring committee member / 175+ interviews / Promotion committee
     * Operations experience running large scale services
 
-### Adobe Systems - Senior Computer Scientist / Tech Lead
+### Adobe Systems - Senior Computer Scientist / Tech Lead (September 2001 - September 2007)
 
-#### September 2001 - September 2007
 * Adobe AIR 1.0 - Lead for networking / notifications / multi-monitor support (Top 10 Emerging Technologies of 2008 / MIT Technology Review)
 * Tech lead for Acrobat Collaboration
   * Shared Review - collaborative document review workflow using simple network file sharing
@@ -56,27 +57,24 @@ title: Barnaby James
 * 20% - Internal social bookmarking site used by 1000+ people in the company
 * 20% - RSS feed service (filtering, splicing, aggregation)
 
-### CoVia Technologies / Principle Engineer
+### CoVia Technologies / Principle Engineer (April 2000 – September 2001)
 
-#### April 2000 – September 2001
 * Intranet workspaces built in C++ / Java / Server-side Javascript and OODBMS
 * Calendar application
 * Batch scheduling system
 * Subscription credit card billing system
 * Migration from server-side javascript to Java
 
-### Caere Corp (Nuance) / Staff Software Engineer
+### Caere Corp (Nuance) / Staff Software Engineer (July 1996 – April 2000)
 
-####  July 1996 – April 2000
 * Optical Character Recognition (OCR) - Core Technologies group
 * Tech lead for Omnipage Pro 10.0 OCR Engine
 * Page layout recognition for Omnipage 8.0, 9.0, 10.0
 * Noise removal, layout rendering and quality evaluation
 * Built online OCR service
 
-### Cognos Corp (IBM) / Software Engineer + Intern
+### Cognos Corp (IBM) / Software Engineer + Intern (22 Months during May 1991 – September 1995)
 
-#### May 1991 – September 1995 (4 years 5 months)
 * Worked on a system for applying a single SQL dialect across heterogeneous RDBMS systems (Oracle, Sybase, Teradata) including cross database joins.
 
 ## Patents
