@@ -79,19 +79,15 @@ title: Barnaby James
 
 ## Patents
 
-### Issued:
-* Searching a database of selected and associated resources / United States 8,190,602
 * Distributed computing document recognition and processing / United States 6,742,161
+* Searching a database of selected and associated resources / United States 8,190,602
 * Method and apparatus for customizing presentation of notification lists / United States 8,244,796
-* Document-authorized access to a shared workspace / United States 9,166,954
-* Content review with proxy comment management / United States 9,130,905
 * Selecting photographs for a destination / United States 9,076,079
+* Content review with proxy comment management / United States 9,130,905
+* Document-authorized access to a shared workspace / United States 9,166,954
 * Selecting photographs for a destination or point of interest / United States 9,483,495
 * Document-authorized access to a shared workspace Various embodiments / United States 9,491,150
-
-### Applications:
-* Intermittent connectivity tolerant replicated document collaboration workspaces / United States US 20140032500 A1
-* Destination and point of interest search / United States US 20140279261 A1
+* Voice action biasing system / United States 9,691,384
 
 ## Citizenship:
 * United States
