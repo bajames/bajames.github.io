@@ -26,7 +26,8 @@ title: Barnaby James
 ## Experience
 
 ### [X](https://x.company/) - Senior Staff Software Engineer (April 2017 – Present)
-* Applied ML projects
+* Early stage product development
+* Applied ML and Computer Vision
 
 ### [Google](https://www.google.com) - Senior Staff Software Engineer / Tech Lead Manager (September 2007 – April 2017)
 
