@@ -77,7 +77,7 @@ title: Barnaby James
 
 * Worked on a system for applying a single SQL dialect across heterogeneous RDBMS systems (Oracle, Sybase, Teradata) including cross database joins.
 
-## Patents
+## [Patents](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=james-barnaby&FIELD1=INNM&co1=OR&TERM2=james-barnaby-john&FIELD2=INNM&d=PTXT)
 
 * Distributed computing document recognition and processing / United States 6,742,161
 * Searching a database of selected and associated resources / United States 8,190,602
@@ -88,6 +88,7 @@ title: Barnaby James
 * Selecting photographs for a destination or point of interest / United States 9,483,495
 * Document-authorized access to a shared workspace Various embodiments / United States 9,491,150
 * Voice action biasing system / United States 9,691,384
+* Selecting photographs for a destination or point of interest / United States 9,805,428
 
 ## Citizenship:
 * United States
