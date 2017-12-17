@@ -25,15 +25,16 @@ title: Barnaby James
 
 ## Experience
 
-### X - Senior Staff Software Engineer (April 2017 – Present)
+### [X](https://x.company/) - Senior Staff Software Engineer (April 2017 – Present)
 * Applied ML projects
 
-### Google - Senior Staff Software Engineer / Tech Lead Manager (September 2007 – April 2017)
+### [Google](https://www.google.com) - Senior Staff Software Engineer / Tech Lead Manager (September 2007 – April 2017)
 
 * Tech Lead Manager - Managing a team of 30+ engineers / TLMs
 * Google Assistant - natural language voice assistant
     * TLM Assistant 3P Developer Platform ([Actions on Google](https://developers.google.com/actions/))
-    * TLM [Smart Home](https://madeby.google.com/home/features/#?filters=entertainment,answers,manage,plan,fun,home&feature=control-your-home9) / [IFTTT Integration](https://ifttt.com/google_assistant)
+    * TLM [Smart Home](https://madeby.google.com/home/features/#?filters=entertainment,answers,manage,plan,fun,home&feature=control-your-home9) 
+    * TLM Assistant [IFTTT Integration](https://ifttt.com/google_assistant)
     * TLM for New Device Integrations / Android Auto
     * 3P Integrations ([Messaging](https://www.engadget.com/2015/07/28/android-voice-commands-for-messaging-apps/), OpenTable, Nest, Uber, [Android APIs](https://developers.google.com/voice-actions/system/))
     * Android [Voice Interaction API](https://developers.google.com/voice-actions/interaction/) ([video](https://www.youtube.com/watch?v=OW1A4XFRuyc), [talk at Ubiquity conference](https://www.youtube.com/watch?v=mgudsc-Z468))
@@ -47,7 +48,7 @@ title: Barnaby James
     * Hiring committee member / 175+ interviews / Promotion committee
     * Operations experience running large scale services
 
-### Adobe Systems - Senior Computer Scientist / Tech Lead (September 2001 - September 2007)
+### [Adobe Systems](http://www.adobe.com) - Senior Computer Scientist / Tech Lead (September 2001 - September 2007)
 
 * Adobe AIR 1.0 - Lead for networking / notifications / multi-monitor support (Top 10 Emerging Technologies of 2008 / MIT Technology Review)
 * Tech lead for Acrobat Collaboration
@@ -65,7 +66,7 @@ title: Barnaby James
 * Subscription credit card billing system
 * Migration from server-side javascript to Java
 
-### Caere Corp (Nuance) / Staff Software Engineer (July 1996 – April 2000)
+### [Nuance (formerly Caere Corp)](https://www.nuance.com/print-capture-and-pdf-solutions/optical-character-recognition/omnipage.html) / Staff Software Engineer (July 1996 – April 2000)
 
 * Optical Character Recognition (OCR) - Core Technologies group
 * Tech lead for Omnipage Pro 10.0 OCR Engine
@@ -73,7 +74,7 @@ title: Barnaby James
 * Noise removal, layout rendering and quality evaluation
 * Built online OCR service
 
-### Cognos Corp (IBM) / Software Engineer + Intern (22 Months during May 1991 – September 1995)
+### [IBM (formerly Cognos)](https://www.ibm.com/products/cognos-analytics) / Software Engineer + Intern (22 Months during May 1991 – September 1995)
 
 * Worked on a system for applying a single SQL dialect across heterogeneous RDBMS systems (Oracle, Sybase, Teradata) including cross database joins.
 
