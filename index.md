@@ -81,16 +81,18 @@ title: Barnaby James
 
 ## [Patents](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=james-barnaby&FIELD1=INNM&co1=OR&TERM2=james-barnaby-john&FIELD2=INNM&d=PTXT)
 
-* Distributed computing document recognition and processing / United States 6,742,161
-* Searching a database of selected and associated resources / United States 8,190,602
-* Method and apparatus for customizing presentation of notification lists / United States 8,244,796
-* Selecting photographs for a destination / United States 9,076,079
-* Content review with proxy comment management / United States 9,130,905
-* Document-authorized access to a shared workspace / United States 9,166,954
-* Selecting photographs for a destination or point of interest / United States 9,483,495
-* Document-authorized access to a shared workspace Various embodiments / United States 9,491,150
-* Voice action biasing system / United States 9,691,384
-* Selecting photographs for a destination or point of interest / United States 9,805,428
+* 10,049,670 - Providing voice action discoverability example for trigger term
+* 9,922,648	- Developer voice actions system
+* 9,805,428	- Selecting photographs for a destination or point of interest
+* 9,691,384	- Voice action biasing system
+* 9,491,150	- Document-authorized access to a shared workspace
+* 9,483,495	- Selecting photographs for a destination or point of interest
+* 9,166,954	- Document-authorized access to a shared workspace
+* 9,130,905	- Content review with proxy comment management
+* 9,076,079	- Selecting photographs for a destination
+* 8,244,796	- Method and apparatus for customizing presentation of notification lists
+* 8,190,602	- Searching a database of selected and associated resources
+* 6,742,161	- Distributed computing document recognition and processing
 
 ## Citizenship:
 * United States
