@@ -10,7 +10,7 @@ title: Barnaby James
 
 ## Experience
 
-### [X](https://x.company/) - Senior Staff Software Engineer (April 2017 – Present)
+### [X](https://x.company/) - Senior Staff Software Engineer / Tech Lead Manager (April 2017 – Present)
 * Early stage product development
 * Applied ML and Computer Vision
 * Tech Lead Manager for early stage software engineering group
