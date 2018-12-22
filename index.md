@@ -68,6 +68,7 @@ title: Barnaby James
 
 ## [Patents](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=0&f=S&l=50&TERM1=james-barnaby&FIELD1=INNM&co1=OR&TERM2=james-barnaby-john&FIELD2=INNM&d=PTXT)
 
+* 10,127,926 - Securely executing voice actions with speaker identification and authentication input types
 * 10,089,982 - Voice action biasing system
 * 10,049,670 - Providing voice action discoverability example for trigger term
 * 9,922,648	- Developer voice actions system
