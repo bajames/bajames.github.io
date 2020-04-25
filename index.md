@@ -31,8 +31,9 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 
 ## Experience
 ### X / Tidal - Principal Software Engineer / Founder / Tech Lead Manager
+![Tidal](https://miro.medium.com/max/1280/1*SMEAKpoP-sFCyNeRbtK1-Q.gif)
 * April 2017 – present
-* X (Tidal)[https://blog.x.company/introducing-tidal-1914257962c3] Founded / Technial Lead / Manager
+* X [Tidal](https://blog.x.company/introducing-tidal-1914257962c3) Founded / Technical Lead / Manager 
 * Applied machine learning / computer vision to solve real world problems
 * Early stage product development
 * Incubating / starting early stage projects with small teams
