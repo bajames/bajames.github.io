@@ -10,31 +10,32 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Specialization in Quantum Field Theory
 
 ## Skills
-* Managing teams up to 30+ engineers
+* Track-record of innovation - 21 Issued US Patents applying Machine Intelligence to solving real world problems
 * Boostrapping new products / product areas with small teams
-* Ability to ramp up in new areas quickly
-* Experience with machine intelligence:
+* Manage teams up to 40 engineers
+* Experience with Applied Machine Learning:
    * Natural language voice agents (Google Assistant / Actions on Google / Voice Search)
-   * Computer vision - object detection / pose estimation / stereo imaging
-   * Voice Recognition
-   * Optical Character Recogniton
-   * Experimental design and large scale data collection for machine learning
-   * Ranking photos by quality and topicality
+   * Computer vision - object detection / pose estimation / stereo imaging (X / Tidal)
+   * Voice Recognition (Google Assistant)
+   * Optical Character Recogniton (Nuance)
+   * Experimental design and large scale data collection for machine learning (X / Tidal)
+   * Ranking photos by quality and topicality (Google Search)
 * Developer Platforms:
    * Founded Actions on Google
    * Android application and platform development on phones / tablet / wearables
 * Experience building scalable indexing + analysis pipelines with MapReduce in Go / C++ / Sawzall
 * Extensive development / production oncall experience for large scale distributed services
-* Extensive experience with engineering hiring and management
-* Guidance for acquistions
-* Languages - C++, Java, Go, Python, JavaScript, Sawzall
+* Extensive experience with engineering hiring and management (Google + X Hiring / Promotion Committees)
+* Due diligence / consulting for acquistions (Nuance / Google)
+* Languages - C++, Java, Python, Go, JavaScript, Sawzall
 
 ## Experience
-### X - Principal Software Engineer / Tech Lead Manager
+### X / Tidal - Principal Software Engineer / Founder / Tech Lead Manager
 * April 2017 – present
+* X (Tidal)[https://blog.x.company/introducing-tidal-1914257962c3] Founded / Technial Lead / Manager
 * Applied machine learning / computer vision to solve real world problems
 * Early stage product development
-* Founding / leading early stage projects with small teams
+* Incubating / starting early stage projects with small teams
 
 ### Google - Senior Staff Software Engineer / Tech Lead Manager
 * September 2007 – April 2017 (9.5 years)
@@ -85,7 +86,12 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * May 1991 – September 1995 (4 years 5 months)
 * Worked on a system for applying a single SQL dialect across heterogeneous RDBMS systems (Oracle, Sybase, Teradata) including cross database joins.
 
-## 16 Issued US Patents
+## 21 Issued US Patents
+* Voice to text conversion based on third-party agent content / United States 10,600,418
+* Fish biomass, shape, and size determination / United States 10,599,922
+* Fish measurement station keeping / United States 10,534,967
+* Selecting photographs for a destination or point of interest / United States 10,510,129
+* Task initiation using sensor dependent context long-tail voice commands / United States 10,490,190
 * Task initiation using long-tail voice commands by weighting strength of association of the tasks and their respective commands based on user feedback / United States 10,297,254
 * Generating and transmitting invocation request to appropriate third-party agent / United States 10,224,031
 * Securely executing voice actions with speaker identification and authentication input types / United States 10,127,926
