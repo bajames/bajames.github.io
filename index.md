@@ -5,13 +5,10 @@ title: Barnaby James
 
 bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 
-## Education
-### University of Toronto, BSc - Honours Physics
-* Specialization in Quantum Field Theory
-
 ## Skills
-* Track-record of innovation - 23 Issued US Patents applying Machine Intelligence to solving real world problems
-* Boostrapping new products / product areas with small teams
+* Track-record of innovation
+    * 24 Issued US Patents applying Machine Intelligence to solving real world problems
+    * Boostrapping new products / product areas with small teams
 * Manage teams up to 40 engineers
 * Experience with Applied Machine Learning:
    * Natural language voice agents (Google Assistant / Actions on Google / Voice Search)
@@ -31,9 +28,10 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 
 ## Experience
 ### X / Tidal - Principal Software Engineer / Founder / Tech Lead Manager
-![Tidal](https://miro.medium.com/max/1280/1*SMEAKpoP-sFCyNeRbtK1-Q.gif)
+<img src="https://x.company/media/images/projects/tidal/lightbox/sunrise-large.jpg" alt="tidal" width="500"/>
+
 * April 2017 – present
-* X [Tidal](https://blog.x.company/introducing-tidal-1914257962c3) Founded / Technical Lead / Manager 
+* X [Tidal](https://x.company/projects/tidal/) Founded / Technical Lead / Manager 
 * Applied machine learning / computer vision to solve real world problems
 * Early stage product development
 * Incubating / starting early stage projects with small teams
@@ -89,7 +87,8 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * May 1991 – September 1995 (4 years 5 months)
 * Worked on a system for applying a single SQL dialect across heterogeneous RDBMS systems (Oracle, Sybase, Teradata) including cross database joins.
 
-## 23 Issued US Patents
+## 24 Issued US Patents
+* Trigger phrase for voice actions of software applications / United States 10,741,183
 * Generating and transmitting invocation request to appropriate third-party agent / United States 10,714,086
 * Processing voice commands based on device topology / United States 10,699,707
 * Voice to text conversion based on third-party agent content / United States 10,600,418
@@ -113,6 +112,10 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Method and apparatus for customizing presentation of notification lists / United States 8,244,796
 * Searching a database of selected and associated resources / United States 8,190,602
 * Distributed computing document recognition and processing / United States 6,742,161
+
+## Education
+### University of Toronto, BSc - Honours Physics
+* Specialization in Quantum Field Theory
 
 ## Citizenship:
 * United States
