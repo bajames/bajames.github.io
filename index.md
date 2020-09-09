@@ -18,6 +18,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
    * Optical Character Recogniton (Nuance)
    * Experimental design and large scale data collection for machine learning (X / Tidal)
    * Ranking photos by quality and topicality (Google Search)
+   * Field work (X / Tidal)
 * Developer Platforms:
    * Founded Actions on Google
    * Android application and platform development on phones / tablet / wearables
@@ -42,6 +43,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
    * Hardware / Software design for remote computer vision
    * Experiment design + data collection
    * Rapid Prototyping
+   * Field work
 * Apply machine learning and computer vision to solve real world problems
 * Tech Lead Manager for X Early Pipeline
    * Early stage product development
@@ -98,7 +100,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * May 1991 – September 1995 (4 years 5 months)
 * Worked on a system for applying a single SQL dialect across heterogeneous RDBMS systems (Oracle, Sybase, Teradata) including cross database joins.
 
-## 24 Issued US Patents
+## 25 Issued US Patents
 * Securely executing voice actions using contextual signals to perform authentication / United States 10,770.093
 * Trigger phrase for voice actions of software applications / United States 10,741,183
 * Generating and transmitting invocation request to appropriate third-party agent / United States 10,714,086
