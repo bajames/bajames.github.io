@@ -9,6 +9,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Track-record of innovation
     * 25 Issued US Patents applying Machine Intelligence to solving real world problems
     * Boostrapping new products / product areas with small teams
+    * Rapid prototyping
 * Manage teams up to 40 engineers
 * Experience with Applied Machine Learning:
    * Natural language voice agents (Google Assistant / Actions on Google / Voice Search)
@@ -25,16 +26,26 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Extensive experience with engineering hiring and management (Google + X Hiring / Promotion Committees)
 * Due diligence / consulting for acquistions (Nuance / Google)
 * Languages - C++, Java, Python, Go, JavaScript, Sawzall
+* Hiring
+   * 500+ interviews at Alphabet
+   * Google New Grad Hiring Committee for 6 years
+   * SWE + Roboticist Promotion committee for Google / X / Loon
+
 
 ## Experience
 ### X / Tidal - Principal Software Engineer / Founder / Tech Lead Manager
 <img src="https://x.company/media/images/projects/tidal/lightbox/sunrise-large.jpg" alt="tidal" width="500"/>
 
 * April 2017 – present
-* X [Tidal](https://x.company/projects/tidal/) Founded / Technical Lead / Manager 
-* Applied machine learning / computer vision to solve real world problems
-* Early stage product development
-* Incubating / starting early stage projects with small teams
+* [X Tidal](https://x.company/projects/tidal/) Founder / Project Technical Lead / Manager
+   * Underwater Machine vision
+   * Hardware / Software design for remote computer vision
+   * Experiment design + data collection
+   * Rapid Prototyping
+* Apply machine learning and computer vision to solve real world problems
+* Tech Lead Manager for X Early Pipeline
+   * Early stage product development
+   * Incubating / protoyping early stage projects with small teams
 
 ### Google - Senior Staff Software Engineer / Tech Lead Manager
 * September 2007 – April 2017 (9.5 years)
