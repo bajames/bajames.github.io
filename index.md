@@ -7,7 +7,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 
 ## Skills
 * Track-record of innovation
-    * 24 Issued US Patents applying Machine Intelligence to solving real world problems
+    * 25 Issued US Patents applying Machine Intelligence to solving real world problems
     * Boostrapping new products / product areas with small teams
 * Manage teams up to 40 engineers
 * Experience with Applied Machine Learning:
@@ -88,6 +88,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Worked on a system for applying a single SQL dialect across heterogeneous RDBMS systems (Oracle, Sybase, Teradata) including cross database joins.
 
 ## 24 Issued US Patents
+* Securely executing voice actions using contextual signals to perform authentication / United States 10,770.093
 * Trigger phrase for voice actions of software applications / United States 10,741,183
 * Generating and transmitting invocation request to appropriate third-party agent / United States 10,714,086
 * Processing voice commands based on device topology / United States 10,699,707
