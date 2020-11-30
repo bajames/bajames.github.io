@@ -22,9 +22,10 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
    * Ranking photos by quality and topicality (Google Search)
    * Field work (X / Tidal)
 * Developer Platforms:
-   * Founded Actions on Google project
-   * Android Voice Interaction and extensions for phones / tablet / wearables
-* Experience building scalable indexing + analysis pipelines with MapReduce in Go / C++ / Sawzall
+   * Founded [Actions on Google](https://developers.google.com/assistant) and [Home Automation API](https://developers.google.com/assistant/smarthome/overview) projects
+   * Created [Android Voice Interaction](https://source.android.com/devices/automotive/voice/voice_interaction_guide) and [Voice Intents](https://developers.google.com/voice-actions/system) for phones / tablet / wearables
+   * Developed [Google Gadgets for Google Apps](https://cloud.googleblog.com/2009/03/go-go-gadgetsin-google-sites.html)
+* Experience building scalable indexing + analysis pipelines with MapReduce / Flume in Go / C++
 * Extensive development / production oncall experience for large scale distributed services
 * Extensive experience with engineering hiring and management
    * Served on SWE / Roboticist / Director Promotion committees for Google / X / Loon
@@ -47,7 +48,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
    * Rapid Prototyping
    * Field work
 * Apply machine learning and computer vision to solve real world problems
-* Tech Lead Manager for X Early Pipeline
+* Emeritus Tech Lead Manager for X Early Pipeline
    * Early stage product development
    * Incubating / protoyping early stage projects with small teams
 
@@ -62,7 +63,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
     * Android [Voice Interaction API](https://developers.google.com/voice-actions/interaction/) ([video](https://www.youtube.com/watch?v=OW1A4XFRuyc), [talk at Ubiquity conference](https://www.youtube.com/watch?v=mgudsc-Z468))
     * [In App Voice Search](http://android-developers.blogspot.com/2014/10/the-fastest-route-between-voice-search.html)
 * Google Travel:
-    * Photo and attraction ranking for [Google Destinations](https://www.google.com/destination/compare?q=usa+destinations&espv=2&biw=1436&bih=803&site=search&output=search&dest_mid=/m/09c7w0&sa=X&ved=0ahUKEwj8oeah59HPAhUW12MKHXXeB7YQ6tEBCCsoBTAA)
+    * Photo and attraction ranking for [Google Destinations](https://www.google.com/destination/compare?q=usa+destinations&espv=2&biw=1436&bih=803&site=search&output=search&dest_mid=/m/09c7w0&sa=X&ved=0ahUKEwj8oeah59HPAhUW12MKHXXeB7YQ6tEBCCsoBTAA), Google Now and Search.
 * Google Apps
     * Authorization and Access control infrastructure for YouTube, Google+, Google Apps sharing
     * Tech lead Google Sites
