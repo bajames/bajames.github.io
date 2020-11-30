@@ -8,7 +8,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 ## Skills
 * Track-record of innovation
     * 35 Issued Patents applying Machine Intelligence to solving real world problems
-    * Boostrapping new products / product areas with small teams
+    * Bootstrap new products / product areas with small teams
     * Experiment design / field work for data collection and validation
     * Rapid prototyping
 * Team management (early stage to 40 person org)
