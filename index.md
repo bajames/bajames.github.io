@@ -7,11 +7,12 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 
 ## Skills
 * Track-record of innovation
-    * 36 Issued Patents applying Machine Intelligence to solving real world problems
+    * 36 issued patents in applied machine learning to solve real world problems
     * Bootstrap new products / product areas with small teams
     * Experiment design / field work for data collection and validation
-    * Rapid prototyping
+    * Rapid prototyping with hardware and ML systems
 * Team management (early stage to 40 person org)
+    * Set technical strategy for large projects (Tidal / Actions on Google / Google Assistant Home Automation)
 * Experience with Applied Machine Learning:
    * Underwater robotics (X / Tidal)
    * Natural language voice agents (Google Assistant / Actions on Google / Voice Search)
