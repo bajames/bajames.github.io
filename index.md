@@ -22,6 +22,8 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
    * Optical Character Recogniton (Nuance)
    * Ranking photos by quality and topicality (Google Search)
    * Field work (X / Tidal)
+   * Monte Carlo Simulation
+
 * Developer Platforms:
    * Founded [Actions on Google](https://developers.google.com/assistant) and [Home Automation API](https://developers.google.com/assistant/smarthome/overview) projects
    * Created [Android Voice Interaction](https://source.android.com/devices/automotive/voice/voice_interaction_guide) and [Voice Intents](https://developers.google.com/voice-actions/system) for phones / tablet / wearables
