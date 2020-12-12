@@ -8,30 +8,32 @@ bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 ## Skills
 * Track-record of innovation
    * 36 issued patents in applied machine learning to solve real world problems
-   * Bootstrap new products / product areas with small teams
+   * Bootstrap new products / product areas starting with small teams
    * Experiment design / field work for data collection and validation
-   * Rapid prototyping with hardware and ML systems
+   * Rapid prototyping with hardware / computer vision / ML systems
    
 * Team management (early stage to 40 person org)
    * Set technical strategy for large projects (Tidal / Actions on Google / Home Automation)
    * Building teams from scratch with intention
-   * Served on SWE / Roboticist / Director Promotion committees for Google / X / Loon
-   * Due diligence / consulting for acquistions (Nuance / Google)
-   * Over 700 interviews across Alphabet
-   * Google New Grad Hiring Committee for 6 years
+   * Served on SWE / Roboticist / Director Promotion committees (Google / X / Loon)
+   * Due diligence / consulting for acquistions (Nuance / Google / X)
+   * Over 700 technical interviews across Alphabet + Hiring Committee for 6 years
 
 * Experience with Applied Machine Learning:
    * Underwater robotics (X / Tidal)
-   * Natural language voice agents (Google Assistant / Actions on Google / Voice Search)
-   * Computer vision - object detection / pose estimation / stereo imaging (X / Tidal)
+   * Applied Computer vision techniques (X / Tidal)
+      * Object detection and tracking
+      * Pose estimation
+      * Deep metric learning
+      * Stereo imaging
+   * Experimental design, large scale data collection and labelling for machine learning projects (X / Tidal / Google Assistant)
+   * Natural language understanding (Google Assistant / Actions on Google / Voice Search)
    * Voice Recognition (Google Assistant)
-   * Experimental design and large scale data collection for machine learning (X / Tidal / Google Assistant)
    * Optical Character Recogniton (Nuance)
    * Ranking photos by quality and topicality (Google Search)
-   * Field work (X / Tidal)
    * Monte Carlo Simulation (X / Tidal)
-   * Hardware specification for computer vision / robotics systems (X / Tidal)
 
+* Working with design / hardware engineers to develop computer vision / robotics systems (X / Tidal)
 * Experience building scalable indexing + analysis pipelines with MapReduce and Flume (Go / C++)
 * Extensive development / production oncall experience for large scale distributed services
 * Proficient Languages - C++, Java, Python, Go, JavaScript, Sawzall
@@ -52,12 +54,12 @@ bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjames)
    * Underwater Machine vision
    * Hardware / Software design for remote computer vision
    * Experiment design + data collection
-   * Rapid Prototyping
+   * Rapid Prototyping hardware / computer vision systems
    * Field work
 * Applying machine learning and computer vision to solve real world problems
 * Emeritus Tech Lead Manager for X Early Pipeline
    * Early stage product development
-   * Incubating / protoyping early stage projects with small teams
+   * Incubating / protoyping early stage hardware / ML projects using small teams
 
 ### Google - Senior Staff Software Engineer / Tech Lead Manager
 * September 2007 – April 2017 (9.5 years)
