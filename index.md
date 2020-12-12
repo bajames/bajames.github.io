@@ -7,7 +7,7 @@ bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 
 ## Skills
 * Track-record of innovation
-   * [36 issued patents](#Issued-Patents) in applied machine learning to solve real world problems
+   * [36 issued patents](#issued-patents) in applied machine learning to solve real world problems
    * Bootstrap new products / product areas starting with small teams
    * Experiment design / field work for data collection and validation
    * Rapid prototyping with hardware / computer vision / ML systems
