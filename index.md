@@ -3,16 +3,23 @@ layout: post
 title: Barnaby James
 ---
 
-bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
+bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 
 ## Skills
 * Track-record of innovation
-    * 36 issued patents in applied machine learning to solve real world problems
-    * Bootstrap new products / product areas with small teams
-    * Experiment design / field work for data collection and validation
-    * Rapid prototyping with hardware and ML systems
+   * 36 issued patents in applied machine learning to solve real world problems
+   * Bootstrap new products / product areas with small teams
+   * Experiment design / field work for data collection and validation
+   * Rapid prototyping with hardware and ML systems
+   
 * Team management (early stage to 40 person org)
-    * Set technical strategy for large projects (Tidal / Actions on Google / Google Assistant Home Automation)
+   * Set technical strategy for large projects (Tidal / Actions on Google / Home Automation)
+   * Building teams from scratch with intention
+   * Served on SWE / Roboticist / Director Promotion committees for Google / X / Loon
+   * Due diligence / consulting for acquistions (Nuance / Google)
+   * Over 700 interviews across Alphabet
+   * Google New Grad Hiring Committee for 6 years
+
 * Experience with Applied Machine Learning:
    * Underwater robotics (X / Tidal)
    * Natural language voice agents (Google Assistant / Actions on Google / Voice Search)
@@ -22,25 +29,22 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
    * Optical Character Recogniton (Nuance)
    * Ranking photos by quality and topicality (Google Search)
    * Field work (X / Tidal)
-   * Monte Carlo Simulation
+   * Monte Carlo Simulation (X / Tidal)
+   * Hardware specification for computer vision / robotics systems (X / Tidal)
+
+* Experience building scalable indexing + analysis pipelines with MapReduce and Flume (Go / C++)
+* Extensive development / production oncall experience for large scale distributed services
+* Proficient Languages - C++, Java, Python, Go, JavaScript, Sawzall
 
 * Developer Platforms:
-   * Founded [Actions on Google](https://developers.google.com/assistant) and [Home Automation API](https://developers.google.com/assistant/smarthome/overview) projects
+   * Founded [Actions on Google](https://developers.google.com/assistant)
+   * Founded [Assistant Home Automation API](https://developers.google.com/assistant/smarthome/overview) projects
    * Created [Android Voice Interaction](https://source.android.com/devices/automotive/voice/voice_interaction_guide) and [Voice Intents](https://developers.google.com/voice-actions/system) for phones / tablet / wearables
    * Developed [Google Gadgets for Google Apps](https://cloud.googleblog.com/2009/03/go-go-gadgetsin-google-sites.html)
-* Experience building scalable indexing + analysis pipelines with MapReduce / Flume in Go / C++
-* Extensive development / production oncall experience for large scale distributed services
-* Extensive experience with engineering hiring and management
-   * Served on SWE / Roboticist / Director Promotion committees for Google / X / Loon
-   * Due diligence / consulting for acquistions (Nuance / Google)
-   * Over 700 interviews across Alphabet
-   * Google New Grad Hiring Committee for 6 years
-* Languages - C++, Java, Python, Go, JavaScript, Sawzall
-
 
 
 ## Experience
-### X / Tidal - Principal Software Engineer / Founder / Tech Lead Manager
+### X / Tidal - Principal Software Engineer / Founder / CTO
 <img src="https://x.company/media/images/projects/tidal/lightbox/sunrise-large.jpg" alt="tidal" width="500"/>
 
 * April 2017 – present
@@ -50,7 +54,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
    * Experiment design + data collection
    * Rapid Prototyping
    * Field work
-* Apply machine learning and computer vision to solve real world problems
+* Applying machine learning and computer vision to solve real world problems
 * Emeritus Tech Lead Manager for X Early Pipeline
    * Early stage product development
    * Incubating / protoyping early stage projects with small teams
@@ -86,7 +90,7 @@ bajames@gmail.com | [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * 20% - Internal social bookmarking site used by 1000+ people in the company
 * 20% - RSS feed service (filtering, splicing, aggregation)
 
-### CoVia Technologies / Principle Engineer
+### CoVia Technologies / Principal Engineer
 * April 2000 – September 2001 (1 year 6 months)
 * Intranet workspaces built in C++ / Java / Server-side Javascript and OODBMS
 * Calendar application
