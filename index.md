@@ -19,13 +19,13 @@ bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjames)
    * Due diligence / consulting for acquistions (Nuance / Google / X)
    * Over 700 technical interviews across Alphabet + Hiring Committee for 6 years
 
-* Experience with Applied Machine Learning:
+* Applied Machine Learning Experience:
    * Underwater robotics (X / Tidal)
    * Applied Computer vision techniques (X / Tidal)
       * Object detection and tracking
       * Pose estimation
       * Deep metric learning
-      * Stereo imaging
+      * Stereogrammetry
    * Experimental design, large scale data collection and labelling for machine learning projects (X / Tidal / Google Assistant)
    * Natural language understanding (Google Assistant / Actions on Google / Voice Search)
    * Voice Recognition (Google Assistant)
@@ -37,26 +37,23 @@ bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 * Experience building scalable indexing + analysis pipelines with MapReduce and Flume (Go / C++)
 * Extensive development / production oncall experience for large scale distributed services
 * Proficient Languages - C++, Java, Python, Go, JavaScript, Sawzall
-
-* Developer Platforms:
+* Building Developer Platforms:
    * Founded [Actions on Google](https://developers.google.com/assistant)
    * Founded [Assistant Home Automation API](https://developers.google.com/assistant/smarthome/overview) projects
    * Created [Android Voice Interaction](https://source.android.com/devices/automotive/voice/voice_interaction_guide) and [Voice Intents](https://developers.google.com/voice-actions/system) for phones / tablet / wearables
    * Developed [Google Gadgets for Google Apps](https://cloud.googleblog.com/2009/03/go-go-gadgetsin-google-sites.html)
 
-
 ## Experience
-### [X / Tidal]() - Principal Software Engineer / Founder / CTO
-<img src="https://x.company/media/images/projects/tidal/lightbox/sunrise-large.jpg" alt="tidal" width="300"/>
+### [X (formerly Google X)](https://x.company/projects/tidal/) - Principal Software Engineer
 
 * April 2017 – present
-* [X Tidal Project](https://x.company/projects/tidal/) Founder / Project Technical Lead / CTO
+* Applying machine learning and computer vision to solve real world problems
+* Founded / CTO - [Tidal X Project](https://x.company/projects/tidal/) 
    * Underwater Machine vision
    * Hardware / Software design for remote computer vision
    * Experiment design + data collection
    * Rapid Prototyping hardware / computer vision systems
    * Field work
-* Applying machine learning and computer vision to solve real world problems
 * Emeritus Tech Lead Manager for X Early Pipeline
    * Early stage product development
    * Incubating / protoyping early stage hardware / ML projects using small teams
