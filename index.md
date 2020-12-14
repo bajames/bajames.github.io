@@ -4,10 +4,11 @@ Contact: bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjame
 * Track-record of innovation
    * [36 issued patents](#issued-patents) in applied machine learning to solve real world problems
    * Bootstrap new products / product areas starting with small teams
-   * Rapid prototyping with hardware / computer vision / ML systems from prototype to contract manufacturer
+   * Rapid prototyping with hardware / computer vision / ML systems from "science project" to contract manufacturer
    
-* Team management (early stage to 40 person org)
-   * Set technical strategy for large projects (Tidal / Actions on Google / Home Automation)
+* Team management
+   * Early stage to 40 person org
+   * Set technical strategy for org-scale projects (Tidal / Actions on Google / Home Automation)
    * Building teams from scratch with intention
 
 * Applied Machine Learning Experience:
@@ -77,26 +78,18 @@ Contact: bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjame
 * Adobe AIR 1.0 - Lead for networking / notifications / multi-monitor support (Top 10 Emerging Technologies of 2008 / MIT Technology Review)
 * Tech lead for Acrobat Collaboration
   * Shared Review - collaborative document review workflow using simple network file sharing
-  * Synchronizer - disconnection tolerant replication agent
   * Networking support (SOAP, WSDL, RSS + ATOM, REST, ZeroConf, P2P)
-* 20% - Internal social bookmarking site used by 1000+ people in the company
-* 20% - RSS feed service (filtering, splicing, aggregation)
 
 ### CoVia Technologies / Principal Engineer
 * April 2000 – September 2001 (1 year 6 months)
 * Intranet workspaces built in C++ / Java / Server-side Javascript and OODBMS
 * Calendar application
-* Batch scheduling system
-* Subscription credit card billing system
-* Migration from server-side javascript to Java
+* Batch scheduling / billing system
 
 ### Nuance (acquired Caere) / Staff Software Engineer
 * July 1996 – April 2000 (3 years 10 months)
-* Optical Character Recognition (OCR) - Core Technologies group
+* Optical Character Recognition (OCR) and Document Understanding - Core Technologies group
 * Tech lead for Omnipage Pro 10.0 OCR Engine
-* Page layout recognition for Omnipage 8.0, 9.0, 10.0
-* Noise removal, layout rendering and quality evaluation
-* Built online OCR service
 
 ### IBM (acquired Cognos) / Software Engineer + Intern
 * May 1991 – September 1995 (4 years 5 months)
