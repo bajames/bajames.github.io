@@ -4,15 +4,11 @@ Contact: bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjame
 * Track-record of innovation
    * [36 issued patents](#issued-patents) in applied machine learning to solve real world problems
    * Bootstrap new products / product areas starting with small teams
-   * Experiment design / field work for data collection and validation
-   * Rapid prototyping with hardware / computer vision / ML systems
+   * Rapid prototyping with hardware / computer vision / ML systems from prototype to contract manufacturer
    
 * Team management (early stage to 40 person org)
    * Set technical strategy for large projects (Tidal / Actions on Google / Home Automation)
    * Building teams from scratch with intention
-   * Served on SWE / Roboticist / Director Promotion committees (Google / X / Loon)
-   * Due diligence / consulting for acquistions (Nuance / Google / X)
-   * Over 700 technical interviews across Alphabet + Hiring Committee for 6 years
 
 * Applied Machine Learning Experience:
    * Underwater robotics (X / Tidal)
@@ -28,15 +24,12 @@ Contact: bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjame
    * Ranking photos by quality and topicality (Google Search)
    * Monte Carlo Simulation (X / Tidal)
 
-* Working with design / hardware engineers to develop computer vision / robotics systems (X / Tidal)
 * Experience building scalable indexing + analysis pipelines with MapReduce and Flume (Go / C++)
 * Extensive development / production oncall experience for large scale distributed services
 * Proficient Languages - C++, Java, Python, Go, JavaScript, Sawzall
-* Building Developer Platforms:
+* Creating Developer Platforms:
    * Founded [Actions on Google](https://developers.google.com/assistant)
    * Founded [Assistant Home Automation API](https://developers.google.com/assistant/smarthome/overview) projects
-   * Created [Android Voice Interaction](https://source.android.com/devices/automotive/voice/voice_interaction_guide) and [Voice Intents](https://developers.google.com/voice-actions/system) for phones / tablet / wearables
-   * Developed [Google Gadgets for Google Apps](https://cloud.googleblog.com/2009/03/go-go-gadgetsin-google-sites.html)
 
 ## Experience
 ### [X (formerly Google X)](https://x.company/projects/tidal/) - Principal Software Engineer
@@ -52,6 +45,10 @@ Contact: bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjame
 * Emeritus Tech Lead Manager for X Early Pipeline
    * Early stage product development
    * Incubating / protoyping early stage hardware / ML projects using small teams
+   * Due diligence / consulting for acquistions
+* Citizenship
+   * 300+ interviews / Promotion committee for SWE / Roboticist / Directors
+   * Due diligence / consulting for acquistions
 
 ### Google - Senior Staff Software Engineer / Tech Lead Manager
 * September 2007 – April 2017 (9.5 years)
@@ -73,6 +70,7 @@ Contact: bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjame
     * Initial port of [Google Overlapping Experiments Framework](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36500.pdf) to Java
     * Hiring committee member / 400+ interviews / Promotion committee
     * Operations experience running large scale production services (oncall, SRE Handover)
+    * Due diligence / consulting for acquistions
 
 ### Adobe Systems - Senior Computer Scientist / Tech Lead
 * September 2001 - September 2007 (6 years)
