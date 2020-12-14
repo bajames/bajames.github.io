@@ -1,9 +1,4 @@
----
-layout: post
-title: Barnaby James
----
-
-bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjames)
+Contact: bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjames)
 
 ## Skills
 * Track-record of innovation
