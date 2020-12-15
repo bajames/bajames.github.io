@@ -21,7 +21,7 @@ Contact: bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjame
    * Experimental design, large scale data collection and labelling for machine learning projects (X / Tidal / Google Assistant)
    * Natural language understanding (Google Assistant / Actions on Google / Voice Search)
    * Voice Recognition (Google Assistant)
-   * Optical Character Recogniton (Nuance)
+   * Optical Character Recognition (Nuance)
    * Ranking photos by quality and topicality (Google Search)
    * Monte Carlo Simulation (X / Tidal)
 
@@ -45,11 +45,11 @@ Contact: bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjame
    * Field work
 * Emeritus Tech Lead Manager for X Early Pipeline
    * Early stage product development
-   * Incubating / protoyping early stage hardware / ML projects using small teams
+   * Incubating / prototyping early stage hardware / ML projects using small teams
    * Due diligence / consulting for acquistions
 * Citizenship
    * 300+ interviews / Promotion committee for SWE / Roboticist / Directors
-   * Due diligence / consulting for acquistions
+   * Due diligence / consulting for acquisitions
 
 ### Google - Senior Staff Software Engineer / Tech Lead Manager
 * September 2007 – April 2017 (9.5 years)
@@ -71,7 +71,7 @@ Contact: bajames@gmail.com  -- [LinkedIn](http://www.linkedin.com/in/barnabyjame
     * Initial port of [Google Overlapping Experiments Framework](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36500.pdf) to Java
     * Hiring committee member / 400+ interviews / Promotion committee
     * Operations experience running large scale production services (oncall, SRE Handover)
-    * Due diligence / consulting for acquistions
+    * Due diligence / consulting for acquisitions
 
 ### Adobe Systems - Senior Computer Scientist / Tech Lead
 * September 2001 - September 2007 (6 years)
